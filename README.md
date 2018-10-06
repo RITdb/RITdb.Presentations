@@ -1,2 +1,2 @@
-# ritdb.Presentations
-Presentations on RITdb
+# RITdb.Presentations
+Presentations on RITdb along with the overall RITdb WIKI
